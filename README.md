@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+This is Heetae Lee from SK M&Service, A Web Developer
+
+I'm passionate about developing and maintaining various web applications and systems. 
+I enjoy finding and implementing technical solutions to provide users with more efficient and convenient experiences.
+
 <!--
 **heetae-L/heetae-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
