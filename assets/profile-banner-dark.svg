@@ -23,7 +23,7 @@
   <path d="M 0 253 C 100 253 220 276 336 303 C 458 332 621 344 960 355 L 960 360 L 0 360 Z" fill="#dae7f4" />
   <path d="M 568 288 C 606 294 639 306 680 311" fill="none" stroke="#7897b8" stroke-width="2" opacity="0.7" />
   <path d="M 904 46 H 931 V 53 H 938 V 73 H 931 V 80 H 904 V 73 H 897 V 53 H 904 Z" fill="#aec8e3" />
-  <g transform="translate(752 180) scale(1.45) rotate(14 38 55)">
+  <g transform="translate(742 166) scale(1.70) rotate(14 38 55)">
     <path d="M 10 23 L 34 16 L 37 23 L 12 31 Z" fill="#e3a16e" />
     <rect x="5" y="24" width="9" height="7" fill="#27374b" />
     <path d="M 29 15 L 50 15 L 48 33 L 44 43 L 29 40 L 27 27 Z" fill="#e3a16e" />
@@ -38,6 +38,6 @@
     <path d="M 0 58 L 8 62 H 69 L 76 58 V 65 L 70 69 H 7 L 0 65 Z" fill="#294c6e" />
     <path d="M 7 66 H 70" stroke="#ce8959" stroke-width="3" />
   </g>
-  <g fill="#dae7f4"><rect x="734" y="293" width="6" height="6"/><rect x="717" y="283" width="5" height="5"/><rect x="703" y="294" width="4" height="4"/></g>
+  <g fill="#dae7f4"><rect x="754" y="305" width="4" height="4"/><rect x="734" y="293" width="6" height="6"/><rect x="717" y="283" width="5" height="5"/><rect x="703" y="294" width="4" height="4"/><rect x="687" y="300" width="4" height="4"/><rect x="674" y="289" width="3" height="3"/><rect x="711" y="313" width="3" height="3"/></g>
 </svg>
 
