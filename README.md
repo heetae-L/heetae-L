@@ -10,4 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com/?font=monospace&amp;size=20&amp;duration=2600&amp;pause=0&amp;color=355570&amp;width=480&amp;height=40&amp;vCenter=true&amp;repeat=false&amp;lines=build+%C2%B7+automate+%C2%B7+snowboard" alt="build · automate · snowboard" width="480" height="40">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heetae-L&amp;theme=github_dark&amp;name=Recent%20activity&amp;bg_color=121c29&amp;title_color=a9c5df&amp;text_color=8aa1b8&amp;chart_color=85b9dc&amp;border_color=121c29">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heetae-L&amp;theme=github&amp;name=Recent%20activity&amp;bg_color=f3f7fa&amp;title_color=355570&amp;text_color=6b8298&amp;chart_color=7196b2&amp;border_color=f3f7fa">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heetae-L&amp;theme=github&amp;name=Recent%20activity&amp;bg_color=f3f7fa&amp;title_color=355570&amp;text_color=6b8298&amp;chart_color=7196b2&amp;border_color=f3f7fa" alt="GitHub activity over the past year" width="960">
+</picture>
+
 [![website](https://img.shields.io/badge/website-visit-476B91?style=flat-square&labelColor=26364A)](https://heetae-l.github.io/ko/) · [한국어](https://heetae-l.github.io/ko/) / [English](https://heetae-l.github.io/en/)
