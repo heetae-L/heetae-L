@@ -16,4 +16,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heetae-L&amp;theme=github&amp;name=Recent%20activity&amp;bg_color=f3f7fa&amp;title_color=355570&amp;text_color=6b8298&amp;chart_color=7196b2&amp;border_color=f3f7fa" alt="GitHub activity over the past year" width="960">
 </picture>
 
-[![website](https://img.shields.io/badge/website-visit-476B91?style=flat-square&labelColor=26364A)](https://heetae-l.github.io/ko/) · [한국어](https://heetae-l.github.io/ko/) / [English](https://heetae-l.github.io/en/)
+<p>
+  <a href="https://heetae-l.github.io/ko/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/website-button-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/website-button-light.svg">
+      <img src="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/website-button-light.svg" alt="Visit my website" width="168" height="40">
+    </picture>
+  </a>
+</p>
+
+[한국어](https://heetae-l.github.io/ko/) / [English](https://heetae-l.github.io/en/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/snowboard-trail-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/snowboard-trail-light.svg">
+  <img src="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/snowboard-trail-light.svg" alt="A curved snowboard trail ending at an orange board" width="960" height="52">
+</picture>

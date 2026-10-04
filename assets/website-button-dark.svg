@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="40" viewBox="0 0 168 40" role="img" aria-labelledby="title desc">
+  <title id="title">WEBSITE</title>
+  <desc id="desc">Visit Heetae's website. A snowy mountain and orange arrow.</desc>
+  <rect x="0.5" y="0.5" width="167" height="39" rx="7" fill="#121c29" stroke="#344d6d"/>
+  <path d="M 12 29 L 24 11 L 38 29 Z" fill="#709bbb"/>
+  <path d="M 18 20 L 24 11 L 31 21 L 27 19 L 24 22 L 22 18 Z" fill="#eaf1f7"/>
+  <text x="49" y="25" fill="#a9c5df" font-family="Consolas, Menlo, monospace" font-size="13" letter-spacing="1.2">WEBSITE</text>
+  <path d="M 144 26 L 154 16 M 145 16 H 154 V 25" fill="none" stroke="#df9c68" stroke-width="2" stroke-linecap="square"/>
+</svg>
