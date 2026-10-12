@@ -23,7 +23,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Generate cards from the public contribution calendar
+      - name: Refresh the saved original profile cards
         run: python3 scripts/update_activity.py
       - name: Save only valid updated cards
         run: |

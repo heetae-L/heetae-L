@@ -3,6 +3,8 @@
 import argparse
 from pathlib import Path
 import re
+import time
+from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
@@ -58,8 +60,18 @@ def main():
         source = args.svg.read_text(encoding="utf-8")
     else:
         request = Request(CARD_URL, headers={"User-Agent": "heetae-L-profile-activity"})
-        with urlopen(request, timeout=30) as response:
-            source = response.read(500_000).decode("utf-8")
+        for attempt in range(2):
+            try:
+                with urlopen(request, timeout=60) as response:
+                    source = response.read(500_000).decode("utf-8")
+                break
+            except HTTPError:
+                raise
+            except (TimeoutError, URLError):
+                if attempt:
+                    raise
+                print("Card download timed out; retrying once before retaining the saved cards.")
+                time.sleep(5)
     # Download and validate both themes before touching the saved images.
     cards = make_cards(source)
     output = Path(__file__).resolve().parents[1] / "assets"
