@@ -10,6 +10,14 @@
   <img src="https://readme-typing-svg.demolab.com/?font=monospace&amp;size=20&amp;duration=2600&amp;pause=0&amp;color=355570&amp;width=480&amp;height=40&amp;vCenter=true&amp;repeat=false&amp;lines=build+%C2%B7+automate+%C2%B7+snowboard" alt="build · automate · snowboard" width="480" height="40">
 </picture>
 
+<a href="https://play.google.com/store/apps/details?id=com.htleestudio.duoflex">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/duo-flex-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/duo-flex-card-light.svg">
+    <img src="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/duo-flex-card-light.svg" alt="Duo Flex — fold-responsive screen effects for supported Galaxy Z Fold and Z Flip devices. View on Google Play." width="960">
+  </picture>
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/activity-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heetae-L/heetae-L/main/assets/activity-light.svg">
